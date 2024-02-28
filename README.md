@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on to improve my life.
+🌱 I’m currently learning anything that I can I guess?
+📫 How to reach me: +60 14 251 5143
 
 <!--
 **danialshuib/danialshuib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
