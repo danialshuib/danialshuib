@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning anything that I can I guess?
 
-📫 How to reach me: +60 14 251 5143
+📫 How to reach me: @danialshuib
 
 <!--
 **danialshuib/danialshuib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
